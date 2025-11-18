@@ -3,7 +3,7 @@
  * Plugin Name: Squash Court Stats
  * Plugin URI: https://stats.squashplayers.app
  * Description: Embeds dashboards and reports from stats.squashplayers.app into WordPress using shortcode [squash_court_stats]. Use dashboard="name" for dashboards or report="name" for trivia reports.
- * Version: 1.6.3
+ * Version: 1.6.4
  * Author: Itomic Apps
  * Author URI: https://www.itomic.com.au
  * License: GPL v2 or later
