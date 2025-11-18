@@ -1,0 +1,42 @@
+# WordPress Plugin .gitignore
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+temp/
+*.tmp
+*.log
+
+# Build artifacts
+*.zip
+!squash-court-stats.zip.example
+
+# Node modules (if you add any build tools)
+node_modules/
+npm-debug.log
+
+# PHP
+vendor/
+composer.lock
+
+# WordPress
+wp-config.php
+.htaccess
+
+# Testing
+test-*.php
+check-*.php
+debug-*.php
+fix-*.php
+force-*.php
+
